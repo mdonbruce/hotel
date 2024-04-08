@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="Welcome to the most extraordinary hotel in Boston Massachusetts">
+  <meta name="keywords" content="hotel,boston hotel,new england hotel">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Hotel BT | Welcome</title>
+</head>
+<body>
+  <header>
+    <nav id="navbar">
+      <div class="container">
+        <h1 class="logo"><a href="index.html">HBT</a></h1>
+        <ul>
+          <li><a class="current" href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div id="showcase">
+      <div class="container">
+        <div class="showcase-content">
+          <h1><span class="text-primary">Enjoy</span> Your Stay</h1>
+          <p class="lead">Take a deep breath, your search is over.  Whether it’s our neighborhood hotel location near Harvard, our plush interiors, or our world-class dining at Josephine that first drew you to us, you’ve found your Cambridge Somerville home. Staying with us is to immerse yourself into the fabric of Somerville, one of New England’s most vibrant neighborhoods with some of the most exciting bars & restaurants in greater Boston.  A place where artists, research scientists, and entrepreneurs live & work together. A place where everyone is welcome.
+
+When you’re with us, you’re one of us, and we’re pretty great. We pride ourselves on making each and every individual who walks through our doors feel as though they’ve arrived just where they were meant to be. So, come on in! eaque.</p>
+          <a class="btn" href="about.html">About Our Hotel</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section id="home-info" class="bg-dark">
+    <div class="info-img"></div>
+    <div class="info-content">
+      <h2><span class="text-primary">The History</span> Of Our Hotel</h2>
+      <p>
+          Our hotel is the ideal hotel for both business and leisure travelers. We offer a new experience to all our guests seeking modern accommodations in the heart of the city.
+      </p>
+      <a href="about.html" class="btn btn-light">Read More</a>
+    </div>
+  </section>
+
+  <section id="features">
+    <div class="box bg-light">
+      <i class="fas fa-hotel fa-3x"></i>
+      <h3>Great Location</h3>
+      <p>With generously proportioned rooms and stunning, modern design, we won’t blame you if it’s a struggle to get out of bed in the morning.  Our 163 guest rooms all feature large TVs and opulent bathrooms, offering a mix of King and Queen/Queen configurations, perfect for solo excursions or family getaways</p>
+    </div>
+    <div class="box bg-primary">
+        <i class="fas fa-utensils fa-3x"></i>
+        <h3>Free Meals</h3>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, omnis?</p>
+    </div>
+    <div class="box bg-light">
+        <i class="fas fa-dumbbell fa-3x"></i>
+        <h3>Fitness Room</h3>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, omnis?</p>
+    </div>
+  </section>
+
+  <div class="clr"></div>
+
+  <footer id="main-footer">
+    <p>Hotel BT &copy; 2024, All RIghts Reserved</p>
+  </footer>
+</body>
+</html>
